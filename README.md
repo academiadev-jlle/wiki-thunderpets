@@ -1,5 +1,7 @@
 ﻿
-![alt text](https://github.com/academiadev-jlle/frontend-thunderpets/blob/master/src/assets/logo.png)
+<p align="center">
+  <img src="https://github.com/academiadev-jlle/frontend-thunderpets/blob/master/src/assets/logo.png" alt="ThunderPets Logo"/>
+</p>
  
 # ThunderPets
 
