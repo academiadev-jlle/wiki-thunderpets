@@ -1,4 +1,6 @@
 ﻿
+![alt text](https://github.com/academiadev-jlle/frontend-thunderpets/blob/master/src/assets/logo.png)
+ 
 # ThunderPets
 
 O ThunderPets é uma API web para publicação e busca de animais perdidos, achados ou disponíveis para adoção. Este projeto parte de uma iniciativa do programa de desenvolvedores **AcademiaDev Joinville** da [CodeNation](http://www.codenation.com.br).
