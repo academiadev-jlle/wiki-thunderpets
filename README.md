@@ -18,8 +18,8 @@ Link de acesso para a aplicação: [COLOCAR LINK]
 * [Luiz Gustavo Eburneo](https://github.com/Botuca) - Arquiteto
 
 ## Respositório
-[Back-End](https://github.com/academiadev-jlle/backend-thunderpets/)
-[Front-End](https://github.com/academiadev-jlle/frontend-thunderpets)
+* [Back-End](https://github.com/academiadev-jlle/backend-thunderpets/)
+* [Front-End](https://github.com/academiadev-jlle/frontend-thunderpets)
 
 ## Documentações
 Para saber dos detalhes de implementação, documentação *endpoints*, uso das branches, entre outros, acesse o arquivo correspondente (ex: Branches.md, para documentação das *branches*) neste repositório.
