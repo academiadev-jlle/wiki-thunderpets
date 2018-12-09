@@ -4,9 +4,11 @@
   <img src="https://github.com/academiadev-jlle/frontend-thunderpets/blob/master/src/assets/logo.png" alt="ThunderPets Logo"/>
 </p>
  
-# ThunderPets
+# ThunderPets - PetCodes 
 
-O ThunderPets é uma API web para publicação e busca de animais perdidos, achados ou disponíveis para adoção. Este projeto parte de uma iniciativa do programa de desenvolvedores **AcademiaDev Joinville** da [CodeNation](http://www.codenation.com.br).
+O PetCodes é uma API web para publicação e busca de animais perdidos, achados ou disponíveis para adoção. Este projeto parte de uma iniciativa do programa de desenvolvedores **AcademiaDev Joinville** da [CodeNation](http://www.codenation.com.br).
+
+A equipe de desenvolvimento desta API tem o nome de ThunderPets. Os seus desenvolvedores estão listados no tópico abaixo.
 
 Este repositório possui toda a documentação de funcionalidades da API, tecnologias e ferramentas utilizadas, descrições das classes, entre outros. Para intruções de acesso veja a seção **Documentação**.
 
@@ -22,7 +24,8 @@ Link de acesso para a aplicação: [COLOCAR LINK]
 * [Diogo Antelo](https://github.com/DiogoAntelo) - Capitão
 * [Luiz Gustavo Eburneo](https://github.com/Botuca) - Arquiteto
 
-## Respositório
+## Respositórios
+Para saber como construir o projeto e caso queira contribuir no desenvolvimento, acesse os repos abaixo:
 * [Back-End](https://github.com/academiadev-jlle/backend-thunderpets/)
 * [Front-End](https://github.com/academiadev-jlle/frontend-thunderpets)
 
