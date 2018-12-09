@@ -1,4 +1,5 @@
 ﻿
+
 <p align="center">
   <img src="https://github.com/academiadev-jlle/frontend-thunderpets/blob/master/src/assets/logo.png" alt="ThunderPets Logo"/>
 </p>
@@ -25,7 +26,14 @@ Link de acesso para a aplicação: [COLOCAR LINK]
 * [Back-End](https://github.com/academiadev-jlle/backend-thunderpets/)
 * [Front-End](https://github.com/academiadev-jlle/frontend-thunderpets)
 
-## Documentações
+## Documentação Endpoints
+Página contento a documentação dos endpoints da API:
+[**Endpoints**](https://liserline.github.io/thunder-endpoints/)
+
+Para acesso ao repo que contém a página:
+[Repo](https://github.com/LiserLine/thunder-endpoints)
+
+## Outras Documentações
 Para saber dos detalhes de implementação, documentação *endpoints*, uso das branches, entre outros, acesse o arquivo correspondente (ex: Branches.md, para documentação das *branches*) neste repositório.
 
 ## Licença
