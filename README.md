@@ -6,13 +6,13 @@
  
 # ThunderPets - PetCodes 
 
-O PetCodes é uma API web para publicação e busca de animais perdidos, achados ou disponíveis para adoção. Este projeto parte de uma iniciativa do programa de desenvolvedores **AcademiaDev Joinville** da [CodeNation](http://www.codenation.com.br).
+O PetCodes é uma plataforma web para publicação e busca de animais perdidos, achados ou disponíveis para adoção. Este projeto parte de uma iniciativa do programa de desenvolvedores **AcademiaDev Joinville** da [CodeNation](http://www.codenation.com.br).
 
 A equipe de desenvolvimento desta API tem o nome de ThunderPets. Os seus desenvolvedores estão listados no tópico abaixo.
 
 Este repositório possui toda a documentação de funcionalidades da API, tecnologias e ferramentas utilizadas, descrições das classes, entre outros. Para intruções de acesso veja a seção **Documentação**.
 
-Link de acesso para a aplicação: [COLOCAR LINK]
+Link de acesso para a aplicação: [ThunderPets](https://thunderpets.herokuapp.com/)
 
 ## Autores
 
@@ -37,7 +37,7 @@ Para acesso ao repo que contém a página:
 [Repo](https://github.com/LiserLine/thunder-endpoints)
 
 ## Outras Documentações
-Para saber dos detalhes de implementação, documentação *endpoints*, uso das branches, entre outros, acesse o arquivo correspondente (ex: Branches.md, para documentação das *branches*) neste repositório.
+Para saber dos detalhes de implementação, documentação dos *endpoints*, uso das branches, entre outros, acesse o arquivo correspondente (ex: Branches.md, para documentação das *branches*) neste repositório.
 
 ## Licença
 
